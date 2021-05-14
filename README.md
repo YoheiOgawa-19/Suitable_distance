@@ -15,8 +15,9 @@ To install the required dependencies, run the following command:
 
 ### It uses:
 
-* [yolo_v3](https://github.com/opencv/opencv/blob/master/samples/dnn/object_detection.py)
-*[sort](https://github.com/abewley/sort)
+*   [yolo_v3](https://github.com/opencv/opencv/blob/master/samples/dnn/object_detection.py)  
+
+*   [sort](https://github.com/abewley/sort)
 
 ## Citation
 
